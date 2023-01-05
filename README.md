@@ -1,8 +1,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelUru2001&color=green" alt="Profile views" /> </p>
-<div> 
+<div align=center> 
 <!-- <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelUru2001&layout=compact)](https://github.com/anuraghazra&langs_count=5&exclude_repo=ventasAutos.github.io,/github-readme-stats'/> -->
-  <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelUru2001&layout=compact)](https://github.com/anuraghazra&langs_count=5/github-readme-stats'/>
+<!--   <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelUru2001&layout=compact)](https://github.com/anuraghazra&langs_count=5/github-readme-stats'/> -->
 <img height='200em' src='https://github-readme-stats.vercel.app/api?username=SamuelUru2001&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats'/>
   </div>
     <hr>
