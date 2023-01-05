@@ -2,7 +2,7 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/87658058?v=4" />
    <h3 align="center">Samuel Urunaga👨🏻‍💻</h3>
-   <h4 align="center">Full Stack... ████▒▒▒▒▒▒</h3>
+   <h4 align="center">Full Stack ███████▒▒▒ ...</h3>
 </p>
 <div align=center> 
 <!-- <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelUru2001&layout=compact)](https://github.com/anuraghazra&langs_count=5&exclude_repo=ventasAutos.github.io,/github-readme-stats'/> -->
