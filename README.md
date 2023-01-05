@@ -1,3 +1,5 @@
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelUru2001&color=green" alt="Profile views" /> </p>
 <p align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/87658058?v=4" />
@@ -37,7 +39,27 @@
   <a href = "mailto:urunaga.63@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
-
+```
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |===========,'
+```
   ![Snake animation](https://github.com/SamuelUru2001/SamuelUru2001/blob/output/github-contribution-grid-snake.svg)
 
 
