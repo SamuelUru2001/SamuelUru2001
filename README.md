@@ -39,7 +39,10 @@
   <a href = "mailto:urunaga.63@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SamuelUru2001/count.svg" />
+</p>
   ![Snake animation](https://github.com/SamuelUru2001/SamuelUru2001/blob/output/github-contribution-grid-snake.svg)
 
 
