@@ -43,6 +43,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/SamuelUru2001/count.svg" />
 </p>
+
   ![Snake animation](https://github.com/SamuelUru2001/SamuelUru2001/blob/output/github-contribution-grid-snake.svg)
 
 
