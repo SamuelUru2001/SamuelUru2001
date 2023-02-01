@@ -40,7 +40,7 @@
 
 </div>
 <p align="center"> 
-  Visitor count<br>
+  visits to my profile<br>
   <img src="https://profile-counter.glitch.me/SamuelUru2001/count.svg" />
 </p>
 
