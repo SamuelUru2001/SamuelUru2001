@@ -58,6 +58,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-  ![Snake animation](https://github.com/SamuelUru2001/SamuelUru2001/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/SamuelUru2001/SamuelUru2001/blob/output/github-contribution-grid-snake.svg) -->
 
 
