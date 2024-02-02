@@ -15,9 +15,9 @@ jobs:
       - name: Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: SamuelUru2001
           
   snake-animation:
     runs-on: ubuntu-latest
@@ -39,7 +39,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
 
   metrics-achievements:
     runs-on: ubuntu-latest
@@ -48,7 +48,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: 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
           base: ""
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
@@ -62,4 +62,4 @@ jobs:
       - name: Github metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: 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
