@@ -1,19 +1,17 @@
-name: generate animation
+name: custom-animation-generation
 
 on:
-  # run automatically every 12 hours
+  # Ejecutar automáticamente cada 12 horas
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *"
   
-  # allows to manually run the job at any time
+  # Permite ejecutar manualmente el trabajo en cualquier momento
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # Ejecutar en cada push a la rama principal
   push:
     branches:
     - main
-    
-  
 
 jobs:
   generate:
@@ -21,20 +19,22 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: Generate github-contribution-grid-snake.svg
+      # Genera una animación SVG a partir de la cuadrícula de contribuciones de GitHub de un usuario (<nuevo_nombre_de_usuario>),
+      # y produce un archivo SVG de salida en <nueva_ruta_svg>
+      - name: Generar nueva animación SVG
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: SamuelUru2001
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: Push github-contribution-grid-snake.svg to the output branch
+            dist/nueva-github-contribution-grid-snake.svg
+            dist/nueva-github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      # Sube el contenido de <nueva_ruta_svg> a una rama de salida
+      # El contenido estará disponible en https://raw.githubusercontent.com/<nombre_usuario>/<repositorio>/<rama_destino>/<archivo>
+      - name: Subir nueva animación SVG a la rama de salida
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
-          target_branch: output
+          target_branch: nueva-rama
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
