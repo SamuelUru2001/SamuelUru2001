@@ -7,12 +7,12 @@
    <h4 align="center">Full Stack ⏳</h3>
 </p>
 <div align=center> 
-<!-- <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelUru2001&layout=compact)](https://github.com/anuraghazra&langs_count=5&exclude_repo=ventasAutos.github.io,/github-readme-stats'/> -->
-<!--   <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelUru2001&layout=compact)](https://github.com/anuraghazra&langs_count=5/github-readme-stats'/> -->
+<img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelUru2001&layout=compact)](https://github.com/anuraghazra&langs_count=5&exclude_repo=ventasAutos.github.io,/github-readme-stats'/>
+  <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelUru2001&layout=compact)](https://github.com/anuraghazra&langs_count=5/github-readme-stats'/>
 <img height='200em' src='https://github-readme-stats.vercel.app/api?username=SamuelUru2001&show_icons=true&theme=tokyonight'/>
   </div>
     <hr>
-<h3>Lenguajes y Herramientas</h3>
+<h3>Lenguajes y Herramientas:</h3>
   <div style='display: inline_block'><br>
 <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
