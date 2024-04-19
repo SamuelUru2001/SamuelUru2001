@@ -1,6 +1,6 @@
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelUru2001&color=green" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelUru2001&color=green" alt="views" /> </p>
 <p align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/87658058?v=4" />
    <h3 align="center">Samuel Urunaga👨🏻‍💻</h3>
