@@ -10,7 +10,7 @@
 <img height='200em' src='https://github-readme-stats.vercel.app/api?username=SamuelUru2001&show_icons=true&theme=tokyonight'/>
   </div>
     <hr>
-<h3>Lenguajes y Herramientas</h3>
+<h3>Lenguajes y Herramientas:</h3>
   <div style='display: inline_block'><br>
 <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
